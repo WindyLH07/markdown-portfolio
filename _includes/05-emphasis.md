@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+It is _universally_ known that fundamentalism fails in postmodernity.
+And the most __tragic__ of all lies itself in its reminiscence of the past.
+
+✨
