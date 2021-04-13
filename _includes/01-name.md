@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# The Temporary Ideology   
+## When ideology becomes unfixed in postmodern time 
